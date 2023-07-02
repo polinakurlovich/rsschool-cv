@@ -19,9 +19,11 @@ field of activity to IT. In my free time I study foreign languages.*
 ## English level
 *I'm gradually learning English. My current level is B1*
 
-## Skils
+## Skills
 - *Git*
 - *Java Script*
+- *HTML*
+- *CSS*
 
 ## Code examples
 ```
